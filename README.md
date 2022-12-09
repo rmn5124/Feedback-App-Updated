@@ -17,4 +17,7 @@ This project goes over all of the fundamentals of React including...
 
 ---
 
-https://user-images.githubusercontent.com/71243209/206621113-aa678063-a922-473a-b1d4-d73da9cab9a8.mp4
+
+
+https://user-images.githubusercontent.com/71243209/206650340-76e0f8cd-8800-448c-860c-06474154ad8b.mp4
+
